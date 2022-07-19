@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { UppyAngularDashboardModule } from '@uppy/angular';
-import {UppyAngularDragDropModule } from '@uppy/angular';
+import {UppyAngularDragDropModule ,   UppyAngularDashboardModalModule} from '@uppy/angular';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
@@ -14,6 +14,7 @@ import { AppComponent } from './app.component';
     AppRoutingModule,
     UppyAngularDashboardModule,
     UppyAngularDragDropModule,
+    UppyAngularDashboardModalModule
   ],
   providers: [],
   bootstrap: [AppComponent]
