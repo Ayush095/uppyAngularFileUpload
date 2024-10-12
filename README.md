@@ -1,4 +1,16 @@
-# UppyImp
+uppyAngularFileUpload is a file upload application built using Angular and Uppy, a modular JavaScript file uploader. This project allows users to select multiple files and upload them to a server with a responsive and user-friendly interface. Uppy provides drag-and-drop support, progress tracking, and file preview functionalities.
+
+Features:
+Multi-file upload with Uppy integration.
+Drag-and-drop support for selecting files.
+Progress tracking for uploads.
+File preview before uploading.
+Responsive and user-friendly interface.
+
+Technologies Used:
+Angular (TypeScript)
+Uppy (JavaScript file uploader library)
+HTML/CSS for UI design
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
